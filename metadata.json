@@ -1,0 +1,6 @@
+{
+  "name": "Mariê Semi Joias",
+  "description": "Loja virtual de semijoias finas Lessenza.Vero — Mariê Semi Joias. Colares, brincos, pulseiras, anéis e conjuntos com envio para todo o Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
